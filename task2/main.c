@@ -16,7 +16,7 @@ int binary_search(int A[], int A_length, int X);
 int main(int argc, const char * argv[])
 {
     
-    printf("\nx^y mod z: \n");
+    printf("\n Hello Github \nx^y mod z: \n");
     
     int x = atoi(argv[1]);
     int y = atoi(argv[2]);
